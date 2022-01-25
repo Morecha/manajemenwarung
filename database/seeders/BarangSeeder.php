@@ -6,7 +6,6 @@ use Carbon\Carbon;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Database\Seeder;
 
-
 class BarangSeeder extends Seeder
 {
     /**
